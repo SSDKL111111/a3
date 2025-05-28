@@ -183,7 +183,7 @@ ui <- dashboardPage(
         fluidRow(
           box(
             title = "Electorate Map",
-            leafletOutput("house_map", height = "800px"),
+            leafletOutput("house_map", height = "700px"),
             p("Maps House electorate status (Declared/Leading) by party,
               with grouping LNP, LP, NP, and LPNP as LP_NP.", class = "viz-note"),
             width = 6
@@ -356,7 +356,7 @@ server <- function(input, output) {
     datatable(
       house_status |>
         filter(Status == "Leading"),
-      options = list(pageLength = 10, autoWidth = TRUE)
+      options = list(pageLength = 5, autoWidth = TRUE)
     )
   })
 
