@@ -345,11 +345,22 @@ server <- function(input, output) {
             PartyAb = case_when(
               PartyAb %in% names(party_colors) ~ PartyAb,
               TRUE ~ "OTHER"
-            )
+            ),
+            map_label = as.character(map_label), # Ensure labels are strings
+            layer_id = as.character(layer_id) # Ensure layer IDs are strings
           )
 
+        # Additional diagnostics
+        message("Any NA in map_label: ", any(is.na(map_data$map_label)))
+        message("Any empty map_label: ", any(map_data$map_label == ""))
+        message("Sample map_label values: ", paste(head(map_data$map_label, 5), collapse = ", "))
+        message("Any NA in layer_id: ", any(is.na(map_data$layer_id)))
+        message("Any empty layer_id: ", any(map_data$layer_id == ""))
+        message("Sample layer_id values: ", paste(head(map_data$layer_id, 5), collapse = ", "))
         message("Rendering house_map with ", nrow(map_data), " rows")
         message("Unique PartyAb in map: ", paste(unique(map_data$PartyAb), collapse = ", "))
+
+
 
         leaflet(map_data) |>
           addTiles() |>
