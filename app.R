@@ -34,7 +34,7 @@ first_preferences_senate <- read_csv(
 
 # Load Map
 division_map <- st_read(here("data", "AUS_ELB_region.shp")) |>
-  st_transform(crs = 4326) # Transform CRS to WGS84 (EPSG:4326) to resolve datum warning
+  st_transform(crs = 4326) # Transform CRS to WGS84 (EPSG:4326)
 
 
 house_status <- members_elected |>
@@ -59,7 +59,8 @@ undecided_divisions <- setdiff(
 leading_seats <- tcp_house |>
   filter(DivisionID %in% undecided_divisions) |>
   group_by(DivisionID) |>
-  slice(which.max(TotalVotes)) |> # Select candidate with highest TCP votes
+  # Select candidate with highest TCP votes
+  slice(which.max(TotalVotes)) |>
   select(DivisionID, DivisionNm, PartyAb) |>
   mutate(
     # Combine LP, NP, LNP, LPNP
@@ -73,8 +74,7 @@ leading_seats <- tcp_house |>
 # Combine declared and leading seats
 house_status <- bind_rows(house_status, leading_seats)
 
-# Ensure division names match between shapefile and house_status
-# Replace 'Elect_div' with the actual column name in the .shp file
+# Process map data
 division_map <- division_map |>
   rename(DivisionNm = Elect_div) |>
   mutate(
@@ -129,8 +129,9 @@ party_colors <- list(
 palette <- colorFactor(
   palette = unlist(party_colors),
   levels = names(party_colors),
-  na.color = "#7F7F7F" # Neutral gray
+  na.color = "#7F7F7F"
 )
+
 
 # UI
 ui <- dashboardPage(
@@ -166,13 +167,17 @@ ui <- dashboardPage(
           box(
             title = "House of Distribution",
             plotlyOutput("house_seat_pie", height = "600px"),
-            p("Shows declared/leading House seats and national Senate vote shares by party.", class = "viz-note"),
+            p("Shows declared/leading House seats and national Senate vote shares by party.",
+              class = "viz-note"
+            ),
             width = 6
           ),
           box(
             title = "Senate First Preference Votes by State",
             plotlyOutput("senate_projection", height = "600px"),
-            p("Displays cumulative Senate vote shares by party across states.", class = "viz-note"),
+            p("Displays cumulative Senate vote shares by party across states.",
+              class = "viz-note"
+            ),
             width = 6
           )
         ),
