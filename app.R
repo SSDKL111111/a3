@@ -97,8 +97,13 @@ division_map <- division_map |>
     Status = case_when(
       is.na(Status) ~ "Unknown",
       TRUE ~ Status
+    ),
+    map_label = case_when(
+      is.na(DivisionNm) | is.na(Status) ~ "Unknown",
+      TRUE ~ paste(DivisionNm, "-", Status)
     )
-  )
+  ) |>
+  filter(sf::st_is_valid(geometry)) # Remove invalid geometries
 
 # Senate: Aggregate first preference votes
 senate_summary <- first_preferences_senate |>
@@ -134,6 +139,20 @@ palette <- colorFactor(
   levels = names(party_colors),
   na.color = "#7F7F7F" # Neutral gray
 )
+
+# Diagnostic checks
+message("Number of rows in division_map: ", nrow(division_map))
+message("Unique PartyAb values: ", paste(unique(division_map$PartyAb), collapse = ", "))
+message("Any NA in DivisionNm: ", any(is.na(division_map$DivisionNm)))
+message("Any NA in Status: ", any(is.na(division_map$Status)))
+message("Any NA in PartyAb: ", any(is.na(division_map$PartyAb)))
+if (nrow(division_map) == 0) {
+  stop("No valid geometries in division_map after filtering")
+}
+palette_test <- palette(division_map$PartyAb)
+if (any(is.na(palette_test))) {
+  warning("NA values in palette output for PartyAb: ", paste(division_map$PartyAb[is.na(palette_test)], collapse = ", "))
+}
 
 # UI
 ui <- dashboardPage(
@@ -319,37 +338,48 @@ server <- function(input, output) {
 
   # House map
   output$house_map <- renderLeaflet({
-    map_data <- division_map |>
-      mutate(
-        PartyAb = case_when(
-          PartyAb %in% names(party_colors) ~ PartyAb,
-          TRUE ~ "OTHER"
-        )
-      )
+    tryCatch(
+      {
+        map_data <- division_map |>
+          mutate(
+            PartyAb = case_when(
+              PartyAb %in% names(party_colors) ~ PartyAb,
+              TRUE ~ "OTHER"
+            )
+          )
 
-    leaflet(map_data) |>
-      addTiles() |>
-      addPolygons(
-        fillColor = ~ palette(PartyAb),
-        weight = 1,
-        opacity = 1,
-        color = "white",
-        fillOpacity = 0.7,
-        label = ~ paste(DivisionNm, "-", Status),
-        layerId = ~DivisionNm
-      ) |>
-      addLegend(
-        position = "bottomright",
-        colors = unlist(party_colors),
-        labels = names(party_colors),
-        title = "Party",
-        opacity = 0.7
-      ) |>
-      setView(
-        lng = 134.4896,
-        lat = -25.7344,
-        zoom = 4
-      )
+        message("Rendering house_map with ", nrow(map_data), " rows")
+        message("Unique PartyAb in map: ", paste(unique(map_data$PartyAb), collapse = ", "))
+
+        leaflet(map_data) |>
+          addTiles() |>
+          addPolygons(
+            fillColor = ~ palette(PartyAb),
+            weight = 1,
+            opacity = 1,
+            color = "white",
+            fillOpacity = 0.7,
+            label = ~ paste(DivisionNm, "-", Status),
+            layerId = ~DivisionNm
+          ) |>
+          addLegend(
+            position = "bottomright",
+            colors = unlist(party_colors),
+            labels = names(party_colors),
+            title = "Party",
+            opacity = 0.7
+          ) |>
+          setView(
+            lng = 134.4896,
+            lat = -25.7344,
+            zoom = 4
+          )
+      },
+      error = function(e) {
+        message("Error in renderLeaflet: ", e$message)
+        stop(e)
+      }
+    )
   })
 
   # Key seats table
