@@ -101,9 +101,13 @@ division_map <- division_map |>
     map_label = case_when(
       is.na(DivisionNm) | is.na(Status) ~ "Unknown",
       TRUE ~ paste(DivisionNm, "-", Status)
+    ),
+    layer_id = case_when(
+      is.na(DivisionNm) ~ "Unknown",
+      TRUE ~ DivisionNm
     )
-  ) |>
-  filter(sf::st_is_valid(geometry)) # Remove invalid geometries
+  )
+  
 
 # Senate: Aggregate first preference votes
 senate_summary <- first_preferences_senate |>
