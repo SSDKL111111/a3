@@ -86,7 +86,7 @@ division_map <- division_map |>
       DivisionNm == "O'connor" ~ "O'Connor",
       TRUE ~ DivisionNm
     )
-  )
+  ) |> 
   left_join(house_status, by = "DivisionNm") |>
   mutate(
     PartyAb = case_when(
