@@ -77,16 +77,7 @@ house_status <- bind_rows(house_status, leading_seats)
 # Replace 'Elect_div' with the actual column name in the .shp file
 division_map <- division_map |>
   rename(DivisionNm = Elect_div) |>
-  left_join(house_status, by = "DivisionNm") |>
   mutate(
-    PartyAb = case_when(
-      is.na(PartyAb) ~ "OTHER",
-      TRUE ~ PartyAb
-    ),
-    Status = case_when(
-      is.na(Status) ~ "Unknown",
-      TRUE ~ Status
-    ),
     # fix division name in map
     DivisionNm = case_when(
       DivisionNm == "Mcewen" ~ "McEwen",
@@ -95,6 +86,18 @@ division_map <- division_map |>
       DivisionNm == "O'connor" ~ "O'Connor",
       TRUE ~ DivisionNm
     )
+  )
+  left_join(house_status, by = "DivisionNm") |>
+  mutate(
+    PartyAb = case_when(
+      is.na(PartyAb) ~ "OTHER",
+      PartyAb %in% c("LP", "NP", "LNP", "LPNP") ~ "LP_NP",
+      TRUE ~ PartyAb
+    ),
+    Status = case_when(
+      is.na(Status) ~ "Unknown",
+      TRUE ~ Status
+    )    
   )
 
 # Senate: Aggregate first preference votes
@@ -316,7 +319,7 @@ server <- function(input, output) {
 
   # House map
   output$house_map <- renderLeaflet({
-    leaflet(division_map |> drop_na()) |>
+    leaflet(division_map) |>
       addTiles() |>
       addPolygons(
         fillColor = ~ palette(PartyAb),
