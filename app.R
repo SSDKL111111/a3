@@ -86,7 +86,7 @@ division_map <- division_map |>
       DivisionNm == "O'connor" ~ "O'Connor",
       TRUE ~ DivisionNm
     )
-  ) |> 
+  ) |>
   left_join(house_status, by = "DivisionNm") |>
   mutate(
     PartyAb = case_when(
@@ -97,7 +97,7 @@ division_map <- division_map |>
     Status = case_when(
       is.na(Status) ~ "Unknown",
       TRUE ~ Status
-    )    
+    )
   )
 
 # Senate: Aggregate first preference votes
@@ -319,7 +319,15 @@ server <- function(input, output) {
 
   # House map
   output$house_map <- renderLeaflet({
-    leaflet(division_map) |>
+    map_data <- division_map |>
+      mutate(
+        PartyAb = case_when(
+          PartyAb %in% names(party_colors) ~ PartyAb,
+          TRUE ~ "OTHER"
+        )
+      )
+
+    leaflet(map_data) |>
       addTiles() |>
       addPolygons(
         fillColor = ~ palette(PartyAb),
