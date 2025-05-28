@@ -77,7 +77,17 @@ house_status <- bind_rows(house_status, leading_seats)
 # Replace 'Elect_div' with the actual column name in the .shp file
 division_map <- division_map |>
   rename(DivisionNm = Elect_div) |>
-  left_join(house_status, by = "DivisionNm")
+  left_join(house_status, by = "DivisionNm") |> 
+  mutate(
+    PartyAb = case_when(
+      is.na(PartyAb) ~ "OTHER", # Assign "OTHER" to unmatched divisions
+      TRUE ~ PartyAb
+    ),
+    Status = case_when(
+      is.na(Status) ~ "Unknown", # Assign "Unknown" to unmatched divisions
+      TRUE ~ Status
+    )
+  )
 
 # Senate: Aggregate first preference votes
 senate_summary <- first_preferences_senate |>
