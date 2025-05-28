@@ -316,7 +316,7 @@ server <- function(input, output) {
 
   # House map
   output$house_map <- renderLeaflet({
-    leaflet(division_map) |>
+    leaflet(division_map |> drop_na()) |>
       addTiles() |>
       addPolygons(
         fillColor = ~ palette(PartyAb),
