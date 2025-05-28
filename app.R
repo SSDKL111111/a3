@@ -77,15 +77,23 @@ house_status <- bind_rows(house_status, leading_seats)
 # Replace 'Elect_div' with the actual column name in the .shp file
 division_map <- division_map |>
   rename(DivisionNm = Elect_div) |>
-  left_join(house_status, by = "DivisionNm") |> 
+  left_join(house_status, by = "DivisionNm") |>
   mutate(
     PartyAb = case_when(
-      is.na(PartyAb) ~ "OTHER", # Assign "OTHER" to unmatched divisions
+      is.na(PartyAb) ~ "OTHER",
       TRUE ~ PartyAb
     ),
     Status = case_when(
-      is.na(Status) ~ "Unknown", # Assign "Unknown" to unmatched divisions
+      is.na(Status) ~ "Unknown",
       TRUE ~ Status
+    ),
+    # fix division name in map
+    DivisionNm = case_when(
+      DivisionNm == "Mcewen" ~ "McEwen",
+      DivisionNm == "Eden-monaro" ~ "Eden-Monaro",
+      DivisionNm == "Mcmahon" ~ "McMahon",
+      DivisionNm == "O'connor" ~ "O'Connor",
+      TRUE ~ DivisionNm
     )
   )
 
@@ -123,7 +131,6 @@ palette <- colorFactor(
   levels = names(party_colors),
   na.color = "#7F7F7F" # Neutral gray
 )
-
 
 # UI
 ui <- dashboardPage(
@@ -184,15 +191,16 @@ ui <- dashboardPage(
           box(
             title = "Leading Seats",
             DTOutput("key_seats_table"),
-            p("Lists House electorates with leading candidates based on 
+            p("Lists House electorates with leading candidates based on
               two-candidate-preferred votes.", class = "viz-note"),
             width = 6
           ),
           box(
             title = "Leading Seats Treemap",
             plotOutput("leading_treemap", height = "300px"),
-            p("Visualizes the number of leading House seats by party, proportional to area.", 
-              class = "viz-note"),
+            p("Visualizes the number of leading House seats by party, proportional to area.",
+              class = "viz-note"
+            ),
             width = 6
           )
         )
@@ -203,14 +211,14 @@ ui <- dashboardPage(
           box(
             title = "Senate National Vote Share",
             plotlyOutput("senate_lollipop", height = "600px"),
-            p("Illustrates national Senate vote share percentages by party, 
+            p("Illustrates national Senate vote share percentages by party,
               with grouping LNP, LP, NP, and LPNP as LP_NP.", class = "viz-note"),
             width = 6
           ),
           box(
             title = "Senate Votes by State",
             plotlyOutput("senate_facet_bar", height = "600px"),
-            p("Breaks down Senate vote counts by party for each state, 
+            p("Breaks down Senate vote counts by party for each state,
               using AEC first preference data.", class = "viz-note"),
             width = 6
           )
@@ -402,10 +410,10 @@ server <- function(input, output) {
       ) +
       theme_minimal() +
       labs(
-        # title = "Senate National Vote Share", 
-        x = "Party", 
+        # title = "Senate National Vote Share",
+        x = "Party",
         y = "Vote Share (%)"
-        ) +
+      ) +
       scale_color_manual(values = unlist(party_colors)) +
       theme(
         legend.position = "none",
@@ -447,7 +455,7 @@ server <- function(input, output) {
       geom_bar(stat = "identity") +
       theme_minimal() +
       labs(
-        #title = "Senate Votes by State",
+        # title = "Senate Votes by State",
         x = "Party",
         y = "Votes",
         fill = "Party"
