@@ -1,0 +1,568 @@
+2025 Federal Election Senate First Preferences By State By Vote Type  [Please Note: These results are not final. Event:31496 Phase:PostElection Generated:2025-05-26T21:46:29 Cycle:643666ce-5653-45dc-8df3-aca02937ad20 Created:2025-05-26T21:45:20 Environment:PROD Site:CANBERRA Server:VTR01 Version:10.11.386.0]
+StateAb,Group,CandidateID,BallotPosition,CandidateDetails,PartyName,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes
+ACT,A,42128,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,2344,84,29,159,268,2884
+ACT,A,41426,1,"HOLGATE, James",Sustainable Australia Party - Universal Basic Income,550,14,6,26,45,641
+ACT,A,41430,2,"HAYDON, John",Sustainable Australia Party - Universal Basic Income,97,3,0,8,11,119
+ACT,A,0,9998,Unapportioned,Sustainable Australia Party - Universal Basic Income,0,0,0,0,0,0
+ACT,B,42123,0,B Above-the-line Votes,David Pocock,76955,1613,463,3340,6128,88499
+ACT,B,40648,1,"POCOCK, David",David Pocock,22999,404,117,1024,1418,25962
+ACT,B,40649,2,"VARDY, Hannah",David Pocock,386,13,3,20,31,453
+ACT,B,0,9998,Unapportioned,David Pocock,0,0,0,0,0,0
+ACT,C,42126,0,C Above-the-line Votes,Animal Justice Party,2302,83,19,117,321,2842
+ACT,C,41292,1,"SOXSMITH, Robyn",Animal Justice Party,382,4,2,10,32,430
+ACT,C,41294,2,"KUDRYCZ, Walter",Animal Justice Party,74,0,1,4,12,91
+ACT,C,0,9998,Unapportioned,Animal Justice Party,0,0,0,0,0,0
+ACT,D,42124,0,D Above-the-line Votes,Australian Labor Party,69673,1380,420,3471,5882,80826
+ACT,D,40664,1,"GALLAGHER, Katy",Australian Labor Party,10184,165,49,559,815,11772
+ACT,D,40665,2,"OH, Janaline",Australian Labor Party,450,11,6,24,44,535
+ACT,D,0,9998,Unapportioned,Australian Labor Party,0,0,0,0,0,0
+ACT,E,42125,0,E Above-the-line Votes,Liberal,39652,774,220,2121,4471,47238
+ACT,E,41094,1,"VADAKKEDATHU, Jacob",Liberal,3164,67,12,140,283,3666
+ACT,E,41096,2,"LEE, Hayune",Liberal,1044,19,4,57,107,1231
+ACT,E,0,9998,Unapportioned,Liberal,0,0,0,0,0,0
+ACT,F,42129,0,F Above-the-line Votes,HEART/LIBERTARIAN,2155,57,15,129,203,2559
+ACT,F,41938,1,"SEARSON-PRAKAASH, Elise",HEART Party,388,13,1,22,39,463
+ACT,F,41942,2,"BROWN, Martin",Libertarian,358,14,3,12,35,422
+ACT,F,0,9998,Unapportioned,HEART/LIBERTARIAN,0,0,0,0,0,0
+ACT,G,42127,0,G Above-the-line Votes,Australian Greens,16310,518,153,1096,1239,19316
+ACT,G,41391,1,"HOBBS, Christina",Australian Greens,2715,91,23,155,180,3164
+ACT,G,41409,2,"ROCKE, Jo",Australian Greens,306,13,3,14,22,358
+ACT,G,0,9998,Unapportioned,Australian Greens,0,0,0,0,0,0
+NSW,A,42144,0,A Above-the-line Votes,Labor,1365300,49163,2218,52148,181160,1649989
+NSW,A,41774,1,"SHELDON, Tony",Labor,35551,1803,83,1611,6709,45757
+NSW,A,41783,2,"AYRES, Tim",Labor,2904,164,8,176,403,3655
+NSW,A,41808,3,"BELJIC, Emilija",Labor,2915,175,5,184,537,3816
+NSW,A,41867,4,"MCGREGOR, Victoria",Labor,2405,133,6,113,394,3051
+NSW,A,41849,5,"SEWELL, Sharon",Labor,1706,95,5,93,253,2152
+NSW,A,41859,6,"ROARTY, Heather",Labor,2214,123,5,104,438,2884
+NSW,A,0,9998,Unapportioned,Labor,160858,0,0,0,0,160858
+NSW,B,42131,0,B Above-the-line Votes,,7996,425,24,328,1000,9773
+NSW,B,40822,1,"BODDY, Max",,711,44,4,34,79,872
+NSW,B,40816,2,"DOVE, Warwick",,202,11,0,12,34,259
+NSW,B,0,9998,Unapportioned,,879,0,0,0,0,879
+NSW,C,42147,0,C Above-the-line Votes,Australia's Voice,26155,1465,60,1127,2665,31472
+NSW,C,42093,1,"DARWICHE, Emanie Samira",Australia's Voice,1498,147,4,68,184,1901
+NSW,C,42095,2,"GEORGE, Graham",Australia's Voice,241,15,0,12,29,297
+NSW,C,0,9998,Unapportioned,Australia's Voice,2854,0,0,0,0,2854
+NSW,D,42142,0,D Above-the-line Votes,FUSION | Planet Rescue | Whistleblower Protection | Innovation,11166,573,27,526,1565,13857
+NSW,D,41787,1,"WHITICKER, Miles",FUSION | Planet Rescue | Whistleblower Protection | Innovation,1109,62,3,49,133,1356
+NSW,D,41795,2,"POTTS, Andrew",FUSION | Planet Rescue | Whistleblower Protection | Innovation,176,12,0,11,23,222
+NSW,D,0,9998,Unapportioned,FUSION | Planet Rescue | Whistleblower Protection | Innovation,1049,0,0,0,0,1049
+NSW,E,42133,0,E Above-the-line Votes,Family First,58848,2860,116,2131,5235,69190
+NSW,E,40806,1,"SHELTON, Lyle",Family First,4090,183,10,125,492,4900
+NSW,E,40814,2,"MASTERS, Roseanne",Family First,308,14,0,15,58,395
+NSW,E,0,9998,Unapportioned,Family First,5580,0,0,0,0,5580
+NSW,F,42140,0,F Above-the-line Votes,Pauline Hanson's One Nation,218358,8484,317,8528,28291,263978
+NSW,F,41754,1,"STACEY, Warwick",Pauline Hanson's One Nation,10095,438,23,370,1726,12652
+NSW,F,41760,2,"THOMPSON, Rebecca",Pauline Hanson's One Nation,849,42,3,41,180,1115
+NSW,F,0,9998,Unapportioned,Pauline Hanson's One Nation,24207,0,0,0,0,24207
+NSW,G,42134,0,G Above-the-line Votes,Animal Justice Party,41925,2097,91,1740,6865,52718
+NSW,G,40792,1,"KERIN, Emma",Animal Justice Party,2176,112,5,76,440,2809
+NSW,G,40797,2,"STELLINO, Matt",Animal Justice Party,143,9,0,8,17,177
+NSW,G,0,9998,Unapportioned,Animal Justice Party,4196,0,0,0,0,4196
+NSW,H,42139,0,H Above-the-line Votes,Australian Christians,42611,2221,94,1647,5404,51977
+NSW,H,41897,1,"WOLFSON, Asher",Australian Christians,2387,116,8,94,319,2924
+NSW,H,41909,2,"FISCHER, Duncan Gregg",Australian Christians,256,16,0,13,33,318
+NSW,H,0,9998,Unapportioned,Australian Christians,3726,0,0,0,0,3726
+NSW,I,42143,0,I Above-the-line Votes,Libertarian / HEART / Gerard Rennick People First,66206,2773,114,2506,7106,78705
+NSW,I,42038,1,"KELLY, Craig",Libertarian,3383,137,9,150,510,4189
+NSW,I,42048,2,"O'NEILL, Michael",HEART Party,551,18,2,22,85,678
+NSW,I,42077,3,"SEDMAN, Tracy",Gerard Rennick People First,1586,76,6,67,330,2065
+NSW,I,42057,4,"CHRISTOU, Steve",Libertarian,171,10,2,10,43,236
+NSW,I,42047,5,"QUTAMI, Sonia",HEART Party,95,9,0,5,11,120
+NSW,I,0,9998,Unapportioned,Libertarian / HEART / Gerard Rennick People First,6525,0,0,0,0,6525
+NSW,J,42132,0,J Above-the-line Votes,Legalise Cannabis Party,130911,8751,276,5102,10033,155073
+NSW,J,40826,1,"HUNT, Miles",Legalise Cannabis Party,4908,385,16,179,458,5946
+NSW,J,40831,2,"BALDERSTONE, Michael",Legalise Cannabis Party,368,30,1,17,42,458
+NSW,J,40844,3,"ELLISTON, Tia",Legalise Cannabis Party,441,38,1,22,79,581
+NSW,J,0,9998,Unapportioned,Legalise Cannabis Party,11381,0,0,0,0,11381
+NSW,K,42141,0,K Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,11056,563,19,517,1591,13746
+NSW,K,42094,1,"BOURKE, William",Sustainable Australia Party - Universal Basic Income,836,46,3,36,142,1063
+NSW,K,42091,2,"CAMPBELL, Petra",Sustainable Australia Party - Universal Basic Income,166,7,0,9,40,222
+NSW,K,0,9998,Unapportioned,Sustainable Australia Party - Universal Basic Income,1198,0,0,0,0,1198
+NSW,L,42146,0,L Above-the-line Votes,Indigenous - Aboriginal Party of Australia,22841,1539,58,1093,1898,27429
+NSW,L,42087,1,"WHYMAN, Owen D",Indigenous - Aboriginal Party of Australia,1841,120,6,94,187,2248
+NSW,L,42088,2,"BROOKE, Lawrence John",Indigenous - Aboriginal Party of Australia,252,26,0,10,28,316
+NSW,L,0,9998,Unapportioned,Indigenous - Aboriginal Party of Australia,2210,0,0,0,0,2210
+NSW,M,42138,0,M Above-the-line Votes,Trumpet of Patriots,88614,4245,147,3445,9518,105969
+NSW,M,41676,1,"NILE, Silvana",Trumpet of Patriots,2817,150,12,117,337,3433
+NSW,M,41694,2,"ROBERTSON, Andrew",Trumpet of Patriots,567,33,0,19,69,688
+NSW,M,41733,3,"MARTIN, Michelle",Trumpet of Patriots,326,22,2,12,46,408
+NSW,M,0,9998,Unapportioned,Trumpet of Patriots,8610,0,0,0,0,8610
+NSW,N,42135,0,N Above-the-line Votes,Liberal & Nationals,1075919,31222,1344,37934,168260,1314679
+NSW,N,41880,1,"BRAGG, Andrew",Liberal,19183,849,35,933,5341,26341
+NSW,N,41905,2,"COLLINS, Jessica",Liberal,2282,120,8,122,460,2992
+NSW,N,41916,3,"DAVEY, Perin",The Nationals,1384,51,0,74,398,1907
+NSW,N,41923,4,"HUGHES, Hollie",Liberal,2027,72,4,84,881,3068
+NSW,N,41932,5,"McARTHUR, Juliana",The Nationals,1023,47,4,37,187,1298
+NSW,N,41936,6,"BRINSMEAD, Rhiannon",Liberal,845,46,0,36,211,1138
+NSW,N,0,9998,Unapportioned,Liberal & Nationals,112103,0,0,0,0,112103
+NSW,O,42136,0,O Above-the-line Votes,Jacqui Lambie Network,35588,856,55,1434,7804,45737
+NSW,O,41946,1,"KOLOMEITZ, Glenn Raymond",Jacqui Lambie Network,2157,43,4,78,547,2829
+NSW,O,41957,2,"SAHAY, Nikhita",Jacqui Lambie Network,232,8,1,11,60,312
+NSW,O,0,9998,Unapportioned,Jacqui Lambie Network,3874,0,0,0,0,3874
+NSW,P,42130,0,P Above-the-line Votes,Citizens Party,7383,314,10,285,873,8865
+NSW,P,40834,1,"SCHMULOW, Andy",Citizens Party,780,36,2,38,93,949
+NSW,P,40830,2,"LAWLER, Ann",Citizens Party,60,2,0,0,13,75
+NSW,P,0,9998,Unapportioned,Citizens Party,718,0,0,0,0,718
+NSW,Q,42137,0,Q Above-the-line Votes,Socialist Alliance,8426,447,17,450,1011,10351
+NSW,Q,41877,1,"BOYLE, Peter",Socialist Alliance,740,37,2,59,102,940
+NSW,Q,41883,2,"CHUTER, Andrew",Socialist Alliance,117,6,0,7,26,156
+NSW,Q,0,9998,Unapportioned,Socialist Alliance,1167,0,0,0,0,1167
+NSW,R,42145,0,R Above-the-line Votes,The Greens,402076,21051,907,19034,39917,482985
+NSW,R,41816,1,"FARUQI, Mehreen",The Greens,18469,913,50,1084,2854,23370
+NSW,R,41832,2,"LLOYD, Eddie",The Greens,788,49,1,47,124,1009
+NSW,R,41853,3,"SELVENTHIRAN, Sujan",The Greens,564,26,0,30,86,706
+NSW,R,41815,4,"BLOCH, Barbara",The Greens,706,40,2,54,112,914
+NSW,R,41824,5,"FLOYD, Ethan",The Greens,473,52,3,37,58,623
+NSW,R,41836,6,"JACOBS, Rachael",The Greens,2131,115,6,146,396,2794
+NSW,R,0,9998,Unapportioned,The Greens,44189,0,0,0,0,44189
+NSW,UG,41762,1,"HARRIS, Kerrie Christina",Independent,3143,98,3,152,711,4107
+NSW,UG,42102,2,"PRICE, Shawn",,644,19,3,41,205,912
+NSW,UG,42071,3,"GRZIC, Warren",Independent,454,19,1,21,73,568
+NT,A,42155,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,3863,123,28,222,92,4328
+NT,A,41889,1,"CHIVERS, Ian",Sustainable Australia Party - Universal Basic Income,480,13,2,19,8,522
+NT,A,41900,2,"WHYTE, Lamaan",Sustainable Australia Party - Universal Basic Income,52,4,0,4,0,60
+NT,A,0,9998,Unapportioned,Sustainable Australia Party - Universal Basic Income,0,0,0,0,0,0
+NT,B,42149,0,B Above-the-line Votes,Legalise Cannabis Party,4608,162,33,302,172,5277
+NT,B,40684,1,"LAWRENCE, Lance Alfred",Legalise Cannabis Party,314,8,3,19,13,357
+NT,B,40686,2,"LUYKEN, Suzette",Legalise Cannabis Party,58,0,0,7,2,67
+NT,B,0,9998,Unapportioned,Legalise Cannabis Party,0,0,0,0,0,0
+NT,C,42152,0,C Above-the-line Votes,Australian Labor Party (Northern Territory) Branch,30681,573,120,1986,1330,34690
+NT,C,40984,1,"McCARTHY, Malarndirri",Australian Labor Party (Northern Territory) Branch,2182,59,7,132,96,2476
+NT,C,40986,2,"ALSOP, Michael William",Australian Labor Party (Northern Territory) Branch,161,3,2,9,10,185
+NT,C,0,9998,Unapportioned,Australian Labor Party (Northern Territory) Branch,0,0,0,0,0,0
+NT,D,42151,0,D Above-the-line Votes,NT CLP,28220,430,105,1773,1898,32426
+NT,D,40989,1,"PRICE, Jacinta Nampijinpa",NT CLP,1995,36,11,148,173,2363
+NT,D,40990,2,"HERSEY, Dean",NT CLP,144,3,1,8,9,165
+NT,D,0,9998,Unapportioned,NT CLP,0,0,0,0,0,0
+NT,E,42150,0,E Above-the-line Votes,Australian Greens,7926,178,37,898,520,9559
+NT,E,40980,1,"NEWPORT, Aia",Australian Greens,1937,17,10,95,53,2112
+NT,E,40983,2,"WELLS, Hugo",Australian Greens,123,4,2,13,7,149
+NT,E,0,9998,Unapportioned,Australian Greens,0,0,0,0,0,0
+NT,F,42153,0,F Above-the-line Votes,Pauline Hanson's One Nation,6475,178,39,597,404,7693
+NT,F,41009,1,"NUGENT, Darren",Pauline Hanson's One Nation,442,16,3,44,39,544
+NT,F,41010,2,"HEWES, Caine",Pauline Hanson's One Nation,52,6,0,5,5,68
+NT,F,0,9998,Unapportioned,Pauline Hanson's One Nation,0,0,0,0,0,0
+NT,G,42148,0,G Above-the-line Votes,Citizens Party,852,30,5,82,48,1017
+NT,G,40640,1,"WYLIE, Lionel",Citizens Party,69,0,0,7,5,81
+NT,G,40641,2,"CAMPBELL, Trudy",Citizens Party,28,3,0,0,4,35
+NT,G,0,9998,Unapportioned,Citizens Party,0,0,0,0,0,0
+NT,H,42154,0,H Above-the-line Votes,Libertarian,1129,32,4,129,66,1360
+NT,H,41684,1,"HANSEN, Jed",Libertarian,89,1,0,10,2,102
+NT,H,41688,2,"SMITH, Trevor",Libertarian,26,2,1,0,2,31
+NT,H,0,9998,Unapportioned,Libertarian,0,0,0,0,0,0
+NT,UG,41550,1,"KENNY, Que",Independent,1018,10,2,70,40,1140
+QLD,A,42189,0,A Above-the-line Votes,Socialist Alliance,13335,906,200,808,1644,16893
+QLD,A,41271,1,"STRAUSS, Jonathan",Socialist Alliance,2383,137,37,81,233,2871
+QLD,A,41272,2,"EMANUEL, Kamala",Socialist Alliance,464,28,4,19,57,572
+QLD,A,0,9998,Unapportioned,Socialist Alliance,762,0,0,0,0,762
+QLD,B,42187,0,B Above-the-line Votes,Trumpet of Patriots,82690,4788,824,4890,13910,107102
+QLD,B,41585,1,"FONG, Harry",Trumpet of Patriots,3232,192,30,134,459,4047
+QLD,B,41592,2,"McMULLAN, Robert",Trumpet of Patriots,870,51,6,49,144,1120
+QLD,B,41596,3,"McCLAER, David",Trumpet of Patriots,462,21,4,21,73,581
+QLD,B,0,9998,Unapportioned,Trumpet of Patriots,4431,0,0,0,0,4431
+QLD,C,42176,0,C Above-the-line Votes,Indigenous - Aboriginal Party of Australia,29301,2171,457,1772,3000,36701
+QLD,C,40612,1,"WHARTON, Wayne CoCo",Indigenous - Aboriginal Party of Australia,2415,154,18,127,224,2938
+QLD,C,40613,2,"DAVIS, Marnie Laree",Indigenous - Aboriginal Party of Australia,539,28,7,31,80,685
+QLD,C,0,9998,Unapportioned,Indigenous - Aboriginal Party of Australia,1786,0,0,0,0,1786
+QLD,D,42179,0,D Above-the-line Votes,FUSION | Planet Rescue | Whistleblower Protection | Innovation,6088,400,75,446,1329,8338
+QLD,D,40682,1,"SIMPSON, Chris",FUSION | Planet Rescue | Whistleblower Protection | Innovation,676,36,5,33,106,856
+QLD,D,40683,2,"JORDAN, Frank",FUSION | Planet Rescue | Whistleblower Protection | Innovation,134,3,2,9,17,165
+QLD,D,0,9998,Unapportioned,FUSION | Planet Rescue | Whistleblower Protection | Innovation,293,0,0,0,0,293
+QLD,E,42185,0,E Above-the-line Votes,Australia's Voice,16827,1086,215,1024,2228,21380
+QLD,E,41226,1,"McDONALD, Michelle",Australia's Voice,1049,55,8,36,125,1273
+QLD,E,41235,2,"LECKIE, Cameron McClure",Australia's Voice,118,6,0,7,15,146
+QLD,E,41239,3,"McGUIRE, Aidan",Australia's Voice,96,6,1,1,6,110
+QLD,E,0,9998,Unapportioned,Australia's Voice,872,0,0,0,0,872
+QLD,F,42194,0,F Above-the-line Votes,Jacqui Lambie Network,34730,1226,164,2338,11520,49978
+QLD,F,41818,1,"HARPER, Ange",Jacqui Lambie Network,1815,44,8,80,577,2524
+QLD,F,41845,2,"SCHRAMM, Craig",Jacqui Lambie Network,97,3,1,4,42,147
+QLD,F,0,9998,Unapportioned,Jacqui Lambie Network,1802,0,0,0,0,1802
+QLD,G,42188,0,G Above-the-line Votes,Gerard Rennick People First|Katter's Australian Party,104741,4304,636,4842,15309,129832
+QLD,G,41462,1,"RENNICK, Gerard",Gerard Rennick People First,9603,385,39,378,1730,12135
+QLD,G,41468,2,"LYON, Robert",Katter's Australian Party (KAP),580,18,2,16,192,808
+QLD,G,0,9998,Unapportioned,Gerard Rennick People First|Katter's Australian Party,7721,0,0,0,0,7721
+QLD,H,42191,0,H Above-the-line Votes,Australian Democrats,9700,424,56,522,1967,12669
+QLD,H,41493,1,"ROBERTS, Scott Frazer",Australian Democrats,705,24,5,28,161,923
+QLD,H,41496,2,"PULLAR, Luke Daniel",Australian Democrats,86,2,0,6,29,123
+QLD,H,0,9998,Unapportioned,Australian Democrats,422,0,0,0,0,422
+QLD,I,42184,0,I Above-the-line Votes,LNP,698422,22421,2786,34072,182104,939805
+QLD,I,41132,1,"SCARR, Paul",LNP,12452,503,72,514,4347,17888
+QLD,I,41137,2,"McDONALD, Susan",LNP,2580,80,10,105,1202,3977
+QLD,I,41139,3,"FRASER, Stuart",LNP,1225,70,4,59,435,1793
+QLD,I,41150,4,"LI, Sophia",LNP,555,28,4,32,236,855
+QLD,I,41152,5,"TUNNEY, Yvonne",LNP,292,8,3,15,124,442
+QLD,I,41154,6,"ZHUANG, Peter",LNP,509,27,2,25,203,766
+QLD,I,0,9998,Unapportioned,LNP,30357,0,0,0,0,30357
+QLD,J,42180,0,J Above-the-line Votes,Australian Labor Party,703443,27799,4158,33742,148243,917385
+QLD,J,40703,1,"GREEN, Nita",Australian Labor Party,17245,764,99,742,5048,23898
+QLD,J,40704,2,"MULHOLLAND, Corinne",Australian Labor Party,1294,55,12,56,397,1814
+QLD,J,40705,3,"CASEY, Peter",Australian Labor Party,1872,85,7,96,498,2558
+QLD,J,40708,4,"SHANKEY, Danielle",Australian Labor Party,762,39,6,37,243,1087
+QLD,J,40709,5,"CHISHOLM, Melinda",Australian Labor Party,908,39,5,34,266,1252
+QLD,J,40712,6,"BAILEY, Brianna",Australian Labor Party,1413,59,8,53,422,1955
+QLD,J,0,9998,Unapportioned,Australian Labor Party,31114,0,0,0,0,31114
+QLD,K,42192,0,K Above-the-line Votes,Great Australian Party & HEART Party,3857,284,44,221,653,5059
+QLD,K,41570,1,"BAY, William",The Great Australian Party,342,14,3,18,53,430
+QLD,K,41575,2,"SMITH, Catherine",HEART Party,157,9,1,9,33,209
+QLD,K,0,9998,Unapportioned,Great Australian Party & HEART Party,222,0,0,0,0,222
+QLD,L,42177,0,L Above-the-line Votes,Citizens Party,4367,234,37,256,674,5568
+QLD,L,40642,1,"PUKALLUS, Jan",Citizens Party,307,16,1,12,55,391
+QLD,L,40643,2,"HEALY, Richard Frederick",Citizens Party,74,4,0,1,11,90
+QLD,L,0,9998,Unapportioned,Citizens Party,187,0,0,0,0,187
+QLD,M,42190,0,M Above-the-line Votes,Animal Justice Party,20899,1351,204,1196,5829,29479
+QLD,M,41492,1,"JENSZ, Michelle",Animal Justice Party,1141,58,9,58,284,1550
+QLD,M,41495,2,"DILLON, Gregory",Animal Justice Party,66,5,1,4,19,95
+QLD,M,0,9998,Unapportioned,Animal Justice Party,742,0,0,0,0,742
+QLD,N,42181,0,N Above-the-line Votes,Family First,40333,2283,397,2047,6702,51762
+QLD,N,40794,1,"LUSH, Katie",Family First,3021,134,15,101,580,3851
+QLD,N,40799,2,"FULLER, Karen",Family First,300,12,1,14,40,367
+QLD,N,0,9998,Unapportioned,Family First,1786,0,0,0,0,1786
+QLD,O,42183,0,O Above-the-line Votes,Legalise Cannabis Party,79783,6284,1178,4435,11728,103408
+QLD,O,40954,1,"JONES, Belinda",Legalise Cannabis Party,3958,243,40,159,604,5004
+QLD,O,40957,2,"LINDSAY, Melody",Legalise Cannabis Party,348,22,3,14,71,458
+QLD,O,0,9998,Unapportioned,Legalise Cannabis Party,3903,0,0,0,0,3903
+QLD,P,42186,0,P Above-the-line Votes,The Greens,236024,14555,2029,14788,38208,305604
+QLD,P,41246,1,"WATERS, Larissa",The Greens,15992,758,78,728,3615,21171
+QLD,P,41257,2,"SIDHU, Navdeep Singh",The Greens,624,38,3,36,122,823
+QLD,P,41261,3,"GARTON, Claire",The Greens,366,28,2,27,90,513
+QLD,P,41265,4,"COX, Jennifer",The Greens,424,34,2,29,109,598
+QLD,P,41266,5,"McARDLE, Melissa",The Greens,300,16,2,26,77,421
+QLD,P,41269,6,"KENNEDY, Kirsten",The Greens,509,31,3,34,151,728
+QLD,P,0,9998,Unapportioned,The Greens,6509,0,0,0,0,6509
+QLD,Q,42182,0,Q Above-the-line Votes,Pauline Hanson's One Nation,152306,7103,1142,9710,34488,204749
+QLD,Q,40889,1,"ROBERTS, Malcolm",Pauline Hanson's One Nation,8849,307,44,382,2267,11849
+QLD,Q,40893,2,"COURT, Geena",Pauline Hanson's One Nation,546,33,3,15,176,773
+QLD,Q,0,9998,Unapportioned,Pauline Hanson's One Nation,11781,0,0,0,0,11781
+QLD,R,42193,0,R Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,4864,291,54,308,1285,6802
+QLD,R,41552,1,"MARTIN, Rhett",Sustainable Australia Party - Universal Basic Income,452,19,2,25,118,616
+QLD,R,41554,2,"HONNIBALL, Ross",Sustainable Australia Party - Universal Basic Income,49,6,1,1,9,66
+QLD,R,0,9998,Unapportioned,Sustainable Australia Party - Universal Basic Income,206,0,0,0,0,206
+QLD,S,42178,0,S Above-the-line Votes,Libertarian,9873,649,104,858,1448,12932
+QLD,S,40675,1,"WILLMOTT, Jim",Libertarian,962,54,8,34,149,1207
+QLD,S,40679,2,"LADE, Lachlan",Libertarian,118,5,1,6,15,145
+QLD,S,0,9998,Unapportioned,Libertarian,356,0,0,0,0,356
+QLD,UG,42017,1,"HOLMES, Gilbert",Independent,1332,59,2,56,372,1821
+QLD,UG,41563,2,"DONOHUE, Danny",Independent,150,7,1,8,67,233
+QLD,UG,42018,3,"WONG, Duke",Independent,447,17,1,17,190,672
+QLD,UG,40681,4,"BROWN, Jason",Independent,423,23,2,19,123,590
+SA,A,42206,0,A Above-the-line Votes,Libertarian,8085,479,138,281,641,9624
+SA,A,41156,1,"GREEN, Tyler Bradley",Libertarian,1685,117,37,70,124,2033
+SA,A,41301,2,"VAN RAALTE, Jacob Nicholas",Libertarian,121,18,0,9,12,160
+SA,A,0,9998,Unapportioned,Libertarian,0,0,0,0,0,0
+SA,B,42197,0,B Above-the-line Votes,FUSION | Planet Rescue | Whistleblower Protection | Innovation,3754,212,52,160,484,4662
+SA,B,41032,1,"ADAMSON AGARS, Imelda",FUSION | Planet Rescue | Whistleblower Protection | Innovation,499,33,12,20,69,633
+SA,B,40979,2,"WOLFENDALE, Drew",FUSION | Planet Rescue | Whistleblower Protection | Innovation,119,7,2,5,14,147
+SA,B,0,9998,Unapportioned,FUSION | Planet Rescue | Whistleblower Protection | Innovation,0,0,0,0,0,0
+SA,C,42199,0,C Above-the-line Votes,Liberal,242527,9233,1618,9045,45820,308243
+SA,C,40999,1,"ANTIC, Alex",Liberal,6289,341,69,267,1444,8410
+SA,C,41003,2,"RUSTON, Anne",Liberal,1719,93,20,85,565,2482
+SA,C,41006,3,"FAWCETT, David",Liberal,973,51,13,44,204,1285
+SA,C,41007,4,"WYLD, Damian",Liberal,387,12,4,20,89,512
+SA,C,0,9998,Unapportioned,Liberal,0,0,0,0,0,0
+SA,D,42207,0,D Above-the-line Votes,Australian Labor Party,341544,14692,3005,11564,57348,428153
+SA,D,41164,1,"SMITH, Marielle",Australian Labor Party,8938,420,133,366,1526,11383
+SA,D,41170,2,"GROGAN, Karen",Australian Labor Party,807,45,11,41,150,1054
+SA,D,41176,3,"WALKER, Charlotte",Australian Labor Party,798,57,12,36,135,1038
+SA,D,41180,4,"ALLISON, Jennifer",Australian Labor Party,1067,70,13,36,181,1367
+SA,D,0,9998,Unapportioned,Australian Labor Party,0,0,0,0,0,0
+SA,E,42209,0,E Above-the-line Votes,Animal Justice Party,10999,763,148,433,2244,14587
+SA,E,41457,1,"BRAY, Frankie",Animal Justice Party,780,46,15,28,144,1013
+SA,E,41461,2,"PASTRO, Julie",Animal Justice Party,160,9,4,7,38,218
+SA,E,0,9998,Unapportioned,Animal Justice Party,0,0,0,0,0,0
+SA,F,42200,0,F Above-the-line Votes,Jacqui Lambie Network,20380,578,127,667,4502,26254
+SA,F,40995,1,"PATRICK, Rex",Jacqui Lambie Network,3980,123,14,116,858,5091
+SA,F,40997,2,"FORDHAM, Anne Elizabeth",Jacqui Lambie Network,118,6,0,5,42,171
+SA,F,0,9998,Unapportioned,Jacqui Lambie Network,0,0,0,0,0,0
+SA,G,42205,0,G Above-the-line Votes,Trumpet of Patriots,24434,1553,310,1008,3649,30954
+SA,G,41065,1,"SMELTZ, Nicole",Trumpet of Patriots,1088,75,11,58,157,1389
+SA,G,41066,2,"DAY, Bob",Trumpet of Patriots,388,21,3,18,65,495
+SA,G,41068,3,"REA, Antonio",Trumpet of Patriots,32,10,0,1,16,59
+SA,G,41070,4,"BAWDEN, Matilda",Trumpet of Patriots,150,12,3,4,28,197
+SA,G,0,9998,Unapportioned,Trumpet of Patriots,0,0,0,0,0,0
+SA,H,42195,0,H Above-the-line Votes,National Party,4069,170,43,215,645,5142
+SA,H,40659,1,"CROSSLING, Monique",National Party,394,10,3,21,57,485
+SA,H,40660,2,"AZZOPARDI, Emma",National Party,49,3,0,1,15,68
+SA,H,0,9998,Unapportioned,National Party,0,0,0,0,0,0
+SA,I,42208,0,I Above-the-line Votes,Australia's Voice,6241,370,111,230,476,7428
+SA,I,41475,1,"SHANE, Jordan",Australia's Voice,449,26,5,24,55,559
+SA,I,41481,2,"NIELSEN, Craig Michael",Australia's Voice,45,1,0,1,7,54
+SA,I,0,9998,Unapportioned,Australia's Voice,0,0,0,0,0,0
+SA,J,42201,0,J Above-the-line Votes,Gerard Rennick People First,9176,541,114,447,1327,11605
+SA,J,40992,1,"LONIE, Rob",Gerard Rennick People First,1394,81,16,57,188,1736
+SA,J,40993,2,"AMADIO, Patrick J",Gerard Rennick People First,103,5,0,2,11,121
+SA,J,0,9998,Unapportioned,Gerard Rennick People First,0,0,0,0,0,0
+SA,K,42196,0,K Above-the-line Votes,Legalise Cannabis Party,25036,1973,478,1074,2790,31351
+SA,K,40631,1,"NIES, Jessica",Legalise Cannabis Party,1374,88,32,56,172,1722
+SA,K,40633,2,"HALL, Timothy John",Legalise Cannabis Party,176,12,1,8,22,219
+SA,K,0,9998,Unapportioned,Legalise Cannabis Party,0,0,0,0,0,0
+SA,L,42202,0,L Above-the-line Votes,Citizens Party,1086,67,16,40,147,1356
+SA,L,40988,1,"ACKLAND, Louise",Citizens Party,137,8,3,3,21,172
+SA,L,40991,2,"FREER, Mark",Citizens Party,36,2,1,1,2,42
+SA,L,0,9998,Unapportioned,Citizens Party,0,0,0,0,0,0
+SA,M,42198,0,M Above-the-line Votes,Family First,16802,977,204,650,2282,20915
+SA,M,41075,1,"BROHIER, Frederick Christopher",Family First,1980,87,18,56,242,2383
+SA,M,41072,2,"MATHEW, Deepa",Family First,210,15,1,5,25,256
+SA,M,0,9998,Unapportioned,Family First,0,0,0,0,0,0
+SA,N,42203,0,N Above-the-line Votes,The Greens,108981,7394,1406,4641,12810,135232
+SA,N,41015,1,"HANSON-YOUNG, Sarah",The Greens,11295,640,122,494,1494,14045
+SA,N,41018,2,"SCHULTZ-BYARD, Noah",The Greens,676,50,5,37,103,871
+SA,N,0,9998,Unapportioned,The Greens,0,0,0,0,0,0
+SA,O,42210,0,O Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,2049,154,23,98,430,2754
+SA,O,41785,1,"WEARNE, Madeleine",Sustainable Australia Party - Universal Basic Income,359,17,7,20,53,456
+SA,O,41792,2,"DWYER, Michael",Sustainable Australia Party - Universal Basic Income,49,3,0,1,13,66
+SA,O,0,9998,Unapportioned,Sustainable Australia Party - Universal Basic Income,0,0,0,0,0,0
+SA,P,42204,0,P Above-the-line Votes,Pauline Hanson's One Nation,45305,2367,506,1974,7910,58062
+SA,P,42029,1,"GAME, Jennifer",Pauline Hanson's One Nation,2963,140,38,118,579,3838
+SA,P,42040,2,"QUAREMBA, Carlos",Pauline Hanson's One Nation,171,11,2,9,38,231
+SA,P,0,9998,Unapportioned,Pauline Hanson's One Nation,0,0,0,0,0,0
+SA,UG,40616,1,"HADJIMARKOU, Kosta",Independent,774,43,3,35,122,977
+SA,UG,41970,2,"FRANCIS, Janette Gail",Independent,219,13,5,19,56,312
+TAS,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,2737,184,30,119,384,3454
+TAS,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,714,42,9,22,86,873
+TAS,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,125,9,0,3,12,149
+TAS,A,0,9998,Unapportioned,Sustainable Australia Party - Universal Basic Income,0,0,0,0,0,0
+TAS,B,42111,0,B Above-the-line Votes,Liberal,61586,1963,250,2025,10037,75861
+TAS,B,40691,1,"CHANDLER, Claire",Liberal,4981,194,17,161,947,6300
+TAS,B,40692,2,"COLBECK, Richard Mansell",Liberal,3108,87,9,122,738,4064
+TAS,B,40693,3,"MARTIN, Jacki",Liberal,1008,44,1,44,192,1289
+TAS,B,0,9998,Unapportioned,Liberal,0,0,0,0,0,0
+TAS,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,8666,394,62,261,1115,10498
+TAS,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,952,38,6,21,114,1131
+TAS,C,41401,2,"KELLY, Matt",Trumpet of Patriots,207,6,3,3,39,258
+TAS,C,41419,3,"SMITH, Greg",Trumpet of Patriots,126,3,1,4,18,152
+TAS,C,0,9998,Unapportioned,Trumpet of Patriots,0,0,0,0,0,0
+TAS,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,9369,591,104,279,846,11189
+TAS,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,1085,76,12,21,108,1302
+TAS,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,109,4,3,3,14,133
+TAS,D,0,9998,Unapportioned,Legalise Cannabis Party,0,0,0,0,0,0
+TAS,E,42119,0,E Above-the-line Votes,Animal Justice Party,3181,177,29,117,573,4077
+TAS,E,41753,1,"DAVIES, Casey",Animal Justice Party,499,18,11,13,80,621
+TAS,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,119,5,2,7,22,155
+TAS,E,0,9998,Unapportioned,Animal Justice Party,0,0,0,0,0,0
+TAS,F,42112,0,F Above-the-line Votes,The Greens,34600,1692,182,1548,3437,41459
+TAS,F,41165,1,"McKIM, Nick",The Greens,14252,597,64,594,1546,17053
+TAS,F,41168,2,"BLEYER, Vanessa",The Greens,1223,60,9,72,175,1539
+TAS,F,41169,3,"JORDAN, Scott",The Greens,252,18,0,21,37,328
+TAS,F,41171,4,"HOARE, Trenton",The Greens,194,12,0,14,51,271
+TAS,F,0,9998,Unapportioned,The Greens,0,0,0,0,0,0
+TAS,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,15693,540,78,555,2751,19617
+TAS,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,5890,180,24,181,1110,7385
+TAS,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,43,0,1,0,9,53
+TAS,G,0,9998,Unapportioned,Jacqui Lambie Network,0,0,0,0,0,0
+TAS,H,42120,0,H Above-the-line Votes,Libertarian,1089,37,12,36,156,1330
+TAS,H,41698,1,"ABRAHAM, Chrysten",Libertarian,216,7,1,10,29,263
+TAS,H,41701,2,"ARMSTRONG, Nicole",Libertarian,35,1,0,2,8,46
+TAS,H,0,9998,Unapportioned,Libertarian,0,0,0,0,0,0
+TAS,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,12714,479,64,395,1715,15367
+TAS,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,3051,102,18,81,504,3756
+TAS,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,80,1,0,1,13,95
+TAS,I,0,9998,Unapportioned,Pauline Hanson's One Nation,0,0,0,0,0,0
+TAS,J,42114,0,J Above-the-line Votes,Citizens Party,756,29,5,29,132,951
+TAS,J,40837,1,"STAGGARD, Daryl",Citizens Party,148,9,2,10,18,187
+TAS,J,40840,2,"WILLIAMS, Ray",Citizens Party,62,1,1,2,15,81
+TAS,J,0,9998,Unapportioned,Citizens Party,0,0,0,0,0,0
+TAS,K,42116,0,K Above-the-line Votes,Australian Labor Party,93086,3083,425,2687,13134,112415
+TAS,K,41721,1,"BROWN, Carol",Australian Labor Party,9920,300,29,273,1836,12358
+TAS,K,41722,2,"DOWLING, Richard",Australian Labor Party,1567,46,6,59,335,2013
+TAS,K,41724,3,"FALLS, Bailey",Australian Labor Party,627,16,5,19,108,775
+TAS,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,355,17,2,12,80,466
+TAS,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,561,17,3,22,138,741
+TAS,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,1699,59,7,55,379,2199
+TAS,K,0,9998,Unapportioned,Australian Labor Party,0,0,0,0,0,0
+TAS,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",5689,362,44,179,847,7121
+TAS,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",907,59,8,30,160,1164
+TAS,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",131,5,1,1,29,167
+TAS,L,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0,0,0,0,0,0
+TAS,UG,42066,1,"EDWARDS, Fenella",Independent,828,38,2,23,193,1084
+VIC,A,42159,0,A Above-the-line Votes,Liberal/The Nationals,932622,34211,1190,41959,237349,1247331
+VIC,A,40719,1,"PATERSON, James",Liberal,21166,1116,54,1124,6914,30374
+VIC,A,40721,2,"HUME, Jane",Liberal,2942,181,13,186,1084,4406
+VIC,A,40722,3,"HOPPITT, Kyle",Liberal,1617,75,7,104,360,2163
+VIC,A,40720,4,"ARNOLD, Glenn",The Nationals,1263,67,3,66,376,1775
+VIC,A,40723,5,"MIRABELLA, Greg",Liberal,930,70,2,62,333,1397
+VIC,A,40724,6,"KMETJ, Chrestyna",Liberal,662,33,1,40,174,910
+VIC,A,0,9998,Unapportioned,Liberal/The Nationals,0,0,0,0,0,0
+VIC,B,42163,0,B Above-the-line Votes,Legalise Cannabis Party,103528,8056,216,5284,17349,134433
+VIC,B,41440,1,"PATTEN, Fiona",Legalise Cannabis Party,10225,676,42,485,1906,13334
+VIC,B,41449,2,"DAVY, Alice",Legalise Cannabis Party,461,40,0,17,87,605
+VIC,B,41451,3,"EVANS, Shea",Legalise Cannabis Party,269,19,3,15,61,367
+VIC,B,0,9998,Unapportioned,Legalise Cannabis Party,0,0,0,0,0,0
+VIC,C,42171,0,C Above-the-line Votes,Animal Justice Party,42604,2560,88,2120,12725,60097
+VIC,C,41435,1,"JEGES, Helen",Animal Justice Party,2941,179,8,149,756,4033
+VIC,C,41437,2,"McMILLAN, Benjamin",Animal Justice Party,312,15,1,18,79,425
+VIC,C,0,9998,Unapportioned,Animal Justice Party,0,0,0,0,0,0
+VIC,D,42175,0,D Above-the-line Votes,Indigenous - Aboriginal Party of Australia,18116,1269,42,1090,3134,23651
+VIC,D,42103,1,"AUSTIN-ABDULLAH, Racquel",Indigenous - Aboriginal Party of Australia,1850,103,6,99,346,2404
+VIC,D,42104,2,"AL-SAIMARY, Laylah",Indigenous - Aboriginal Party of Australia,327,27,2,9,93,458
+VIC,D,0,9998,Unapportioned,Indigenous - Aboriginal Party of Australia,0,0,0,0,0,0
+VIC,E,42172,0,E Above-the-line Votes,Australia's Voice,29834,1752,75,1059,4948,37668
+VIC,E,42060,1,"EL-MASRI, Mohamed",Australia's Voice,1206,95,2,65,328,1696
+VIC,E,42064,2,"KAUR, Harsimran",Australia's Voice,264,13,4,9,34,324
+VIC,E,42069,3,"EL ACHKAR, Rasheed",Australia's Voice,79,14,0,7,31,131
+VIC,E,0,9998,Unapportioned,Australia's Voice,0,0,0,0,0,0
+VIC,F,42169,0,F Above-the-line Votes,FUSION | Planet Rescue | Whistleblower Protection | Innovation,6642,500,18,390,1748,9298
+VIC,F,41812,1,"CORDNER HUNT, Kammy",FUSION | Planet Rescue | Whistleblower Protection | Innovation,932,53,2,49,205,1241
+VIC,F,41821,2,"GNIESLAW, Simon Mark Simcha",FUSION | Planet Rescue | Whistleblower Protection | Innovation,116,6,1,8,34,165
+VIC,F,0,9998,Unapportioned,FUSION | Planet Rescue | Whistleblower Protection | Innovation,0,0,0,0,0,0
+VIC,G,42164,0,G Above-the-line Votes,,2701,178,9,136,649,3673
+VIC,G,41709,1,"VONGVIXAY, Keo",,202,8,0,11,34,255
+VIC,G,41716,2,"HERNAN, Taylor",,73,5,0,5,17,100
+VIC,G,0,9998,Unapportioned,,0,0,0,0,0,0
+VIC,H,42165,0,H Above-the-line Votes,Trumpet of Patriots,73914,4248,111,3819,17438,99530
+VIC,H,41669,1,"UNKLES, James William",Trumpet of Patriots,2533,163,8,118,573,3395
+VIC,H,41673,2,"JEAN, Ron",Trumpet of Patriots,224,15,1,12,59,311
+VIC,H,41675,3,"McKAY, Roger Ivan",Trumpet of Patriots,217,17,2,20,60,316
+VIC,H,0,9998,Unapportioned,Trumpet of Patriots,0,0,0,0,0,0
+VIC,I,42158,0,I Above-the-line Votes,Australian Labor Party,1046806,44352,1777,45937,233108,1371980
+VIC,I,40707,1,"CICCONE, Raffaele",Australian Labor Party,22509,1140,55,1083,6110,30897
+VIC,I,40713,2,"WALSH, Jess",Australian Labor Party,3982,241,12,233,1276,5744
+VIC,I,40714,3,"ANANDA-RAJAH, Michelle",Australian Labor Party,4105,178,15,203,1071,5572
+VIC,I,40715,4,"PSAILA, Lynn",Australian Labor Party,713,41,0,57,237,1048
+VIC,I,40716,5,"KELLEY, Stephenie",Australian Labor Party,2418,133,7,126,779,3463
+VIC,I,40718,6,"BAKER, David",Australian Labor Party,2514,143,4,135,864,3660
+VIC,I,0,9998,Unapportioned,Australian Labor Party,0,0,0,0,0,0
+VIC,J,42168,0,J Above-the-line Votes,Family First,53091,2660,113,2217,10860,68941
+VIC,J,41663,1,"FINN, Bernie",Family First,3933,180,8,168,704,4993
+VIC,J,41664,2,"FOREMAN, Jane",Family First,491,24,1,19,140,675
+VIC,J,0,9998,Unapportioned,Family First,0,0,0,0,0,0
+VIC,K,42166,0,K Above-the-line Votes,Pauline Hanson's One Nation,129708,5918,191,6678,31417,173912
+VIC,K,41666,1,"PICKERING, Warren",Pauline Hanson's One Nation,5579,279,19,291,1506,7674
+VIC,K,41672,2,"BRADBURY, Christopher",Pauline Hanson's One Nation,444,28,2,25,143,642
+VIC,K,0,9998,Unapportioned,Pauline Hanson's One Nation,0,0,0,0,0,0
+VIC,L,42160,0,L Above-the-line Votes,Australian Democrats,11424,473,19,534,2696,15146
+VIC,L,40710,1,"McKENZIE, Heath",Australian Democrats,1158,51,3,55,265,1532
+VIC,L,40711,2,"NOBLE, Carly",Australian Democrats,244,7,1,10,76,338
+VIC,L,0,9998,Unapportioned,Australian Democrats,0,0,0,0,0,0
+VIC,M,42162,0,M Above-the-line Votes,Victorian Socialists,40330,2631,109,1869,5043,49982
+VIC,M,41005,1,"VAN DEN LAMB, Jordan",Victorian Socialists,9649,679,34,526,1294,12182
+VIC,M,41008,2,"PRICE, Steph",Victorian Socialists,679,47,2,48,153,929
+VIC,M,0,9998,Unapportioned,Victorian Socialists,0,0,0,0,0,0
+VIC,N,42173,0,N Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,6824,418,11,388,1884,9525
+VIC,N,41738,1,"ACKERLY, Celeste",Sustainable Australia Party - Universal Basic Income,815,46,2,41,208,1112
+VIC,N,41750,2,"JESSUP, Bert",Sustainable Australia Party - Universal Basic Income,96,6,0,7,17,126
+VIC,N,0,9998,Unapportioned,Sustainable Australia Party - Universal Basic Income,0,0,0,0,0,0
+VIC,O,42161,0,O Above-the-line Votes,Gerard Rennick People First - Heart,29855,1550,46,1636,6513,39600
+VIC,O,40994,1,"NEIL, Chris",Gerard Rennick People First,3253,191,15,178,600,4237
+VIC,O,40996,2,"CLONARIDIS, Nick",HEART Party,174,14,0,6,49,243
+VIC,O,0,9998,Unapportioned,Gerard Rennick People First - Heart,0,0,0,0,0,0
+VIC,P,42170,0,P Above-the-line Votes,Libertarian,17303,904,43,916,2567,21733
+VIC,P,41441,1,"DITTLOFF, Jordan",Libertarian,1250,78,3,53,237,1621
+VIC,P,41450,2,"FORD, Matthew",Libertarian,144,6,0,9,30,189
+VIC,P,41455,3,"MATULEC, Stephen",Libertarian,56,3,1,3,11,74
+VIC,P,0,9998,Unapportioned,Libertarian,0,0,0,0,0,0
+VIC,Q,42157,0,Q Above-the-line Votes,The Greens,367672,24100,749,21234,59741,473496
+VIC,Q,40890,1,"HODGINS-MAY, Steph",The Greens,21483,1295,82,1261,3902,28023
+VIC,Q,40883,2,"ARI, Navera",The Greens,739,45,2,57,189,1032
+VIC,Q,40895,3,"IAMPOLSKI, Rachel",The Greens,646,48,0,42,183,919
+VIC,Q,40882,4,"SLATER, Maddie",The Greens,1406,88,2,102,326,1924
+VIC,Q,40887,5,"HENDERSON, Brittney",The Greens,1171,92,2,78,297,1640
+VIC,Q,40885,6,"YAWARI, Nasser",The Greens,3129,176,15,146,335,3801
+VIC,Q,0,9998,Unapportioned,The Greens,0,0,0,0,0,0
+VIC,R,42156,0,R Above-the-line Votes,Citizens Party,7116,278,21,296,1240,8951
+VIC,R,40695,1,"BARWICK, Robert",Citizens Party,447,26,1,30,120,624
+VIC,R,40698,2,"YOHANNA, Sleiman",Citizens Party,183,3,0,8,41,235
+VIC,R,0,9998,Unapportioned,Citizens Party,0,0,0,0,0,0
+VIC,S,42174,0,S Above-the-line Votes,"Shooters, Fishers and Farmers Party",35270,2097,58,2377,8094,47896
+VIC,S,42054,1,"CONSTANTINOU, Ethan","Shooters, Fishers and Farmers Party",1906,115,3,130,451,2605
+VIC,S,42061,2,"VICKERS, Ken","Shooters, Fishers and Farmers Party",329,25,1,21,105,481
+VIC,S,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0,0,0,0,0,0
+VIC,T,42167,0,T Above-the-line Votes,,1221,66,0,56,434,1777
+VIC,T,41665,1,"SAINI, Raj",,172,10,2,11,37,232
+VIC,T,41668,2,"ALLE, Kirti",,24,0,0,1,4,29
+VIC,T,41671,3,"KANAKAGIRI, Yashaswini Srinivas",,52,2,0,1,10,65
+VIC,T,0,9998,Unapportioned,,0,0,0,0,0,0
+VIC,UG,41979,1,"CHEUNG, Heena Sinha",Independent,1178,63,3,64,371,1679
+VIC,UG,40998,2,"ABEYSINGHE, Susantha",Independent,178,11,0,10,67,266
+VIC,UG,42089,3,"LEWAND, Viesha",Independent,86,9,0,6,28,129
+VIC,UG,41804,4,"HARVEY, Lawrence",Independent,215,6,0,19,74,314
+VIC,UG,42019,5,"CORBETT, Cory",Independent,248,13,1,18,105,385
+VIC,UG,42041,6,"BLACK, K",Independent,178,10,1,11,53,253
+VIC,UG,41964,7,"VAN, David",Independent,375,19,2,15,143,554
+VIC,UG,41822,8,"RITTER, Nate",Independent,280,20,0,13,103,416
+WA,A,42228,0,A Above-the-line Votes,GAP,10498,961,31,606,1056,13152
+WA,A,42092,1,"CULLERTON, Rodney",The Great Australian Party,1296,114,7,73,110,1600
+WA,A,42096,2,"NEWTON-WORDSWORTH, William",The Great Australian Party,158,16,2,8,7,191
+WA,A,0,9998,Unapportioned,GAP,294,0,0,0,0,294
+WA,B,42214,0,B Above-the-line Votes,Australian Christians,32562,2044,74,1444,3839,39963
+WA,B,41890,1,"KLOMP, Steve",Australian Christians,1846,140,4,81,214,2285
+WA,B,41915,2,"NG, Joan Lee",Australian Christians,275,15,1,20,47,358
+WA,B,0,9998,Unapportioned,Australian Christians,727,0,0,0,0,727
+WA,C,42211,0,C Above-the-line Votes,Citizens Party,3371,253,6,163,417,4210
+WA,C,40726,1,"NOVAKOVICH, Aisha Nancy",Citizens Party,332,34,0,17,32,415
+WA,C,40728,2,"RYLES, Rex Michael",Citizens Party,56,2,0,6,11,75
+WA,C,0,9998,Unapportioned,Citizens Party,75,0,0,0,0,75
+WA,D,42221,0,D Above-the-line Votes,Trumpet of Patriots,20282,1495,42,1165,2484,25468
+WA,D,41995,1,"BANNISTER, Melissa",Trumpet of Patriots,887,87,3,36,115,1128
+WA,D,41996,2,"MONGAN, Trent Kenneth",Trumpet of Patriots,71,2,0,2,6,81
+WA,D,41997,3,"ROBINS, Peter",Trumpet of Patriots,60,6,0,1,6,73
+WA,D,41999,4,"STEWART, Lincoln",Trumpet of Patriots,98,10,1,8,14,131
+WA,D,0,9998,Unapportioned,Trumpet of Patriots,260,0,0,0,0,260
+WA,E,42215,0,E Above-the-line Votes,Sustainable Australia Party,4774,395,15,263,856,6303
+WA,E,42021,1,"OBORN, Karen",Sustainable Australia Party - Universal Basic Income,446,31,1,28,75,581
+WA,E,42030,2,"OOSTRYCK, Ryan",Sustainable Australia Party - Universal Basic Income,71,11,0,2,13,97
+WA,E,0,9998,Unapportioned,Sustainable Australia Party,155,0,0,0,0,155
+WA,F,42227,0,F Above-the-line Votes,Australian Democrats,4605,239,10,225,703,5782
+WA,F,42006,1,"MITCHELL, Elana",Australian Democrats,404,22,1,31,70,528
+WA,F,42007,2,"SIMSON, Simon",Australian Democrats,49,5,0,3,9,66
+WA,F,0,9998,Unapportioned,Australian Democrats,130,0,0,0,0,130
+WA,G,42226,0,G Above-the-line Votes,Libertarian,7612,568,14,405,797,9396
+WA,G,41998,1,"BURNS, Ryan",Libertarian,550,44,1,29,63,687
+WA,G,42000,2,"NICOL, Gary",Libertarian,45,6,0,3,3,57
+WA,G,0,9998,Unapportioned,Libertarian,130,0,0,0,0,130
+WA,H,42212,0,H Above-the-line Votes,Gerard Rennick People First,16538,1118,50,903,2266,20875
+WA,H,40668,1,"KING, Madison",Gerard Rennick People First,2025,133,0,127,282,2567
+WA,H,40670,2,"CLUNE, Jody",Gerard Rennick People First,87,8,0,4,17,116
+WA,H,0,9998,Unapportioned,Gerard Rennick People First,465,0,0,0,0,465
+WA,I,42223,0,I Above-the-line Votes,The Greens (WA),152692,12599,339,8845,17408,191883
+WA,I,42001,1,"STEELE-JOHN, Jordon",The Greens (WA) Inc,8086,572,30,559,1179,10426
+WA,I,42002,2,"COLLINS, Simone",The Greens (WA) Inc,891,89,7,75,167,1229
+WA,I,42003,3,"CLARKE, Donald",The Greens (WA) Inc,111,15,0,12,22,160
+WA,I,42004,4,"IVES, Verity",The Greens (WA) Inc,396,31,1,25,79,532
+WA,I,42005,5,"LONSDALE, Heather",The Greens (WA) Inc,648,58,0,52,140,898
+WA,I,0,9998,Unapportioned,The Greens (WA),3221,0,0,0,0,3221
+WA,J,42225,0,J Above-the-line Votes,FUSION,2362,188,6,149,451,3156
+WA,J,42106,1,"CARRIE-WILSON, Tian",FUSION | Planet Rescue | Whistleblower Protection | Innovation,236,10,0,12,43,301
+WA,J,42107,2,"ALDERDICE, Tamara",FUSION | Planet Rescue | Whistleblower Protection | Innovation,72,7,0,2,23,104
+WA,J,0,9998,Unapportioned,FUSION,49,0,0,0,0,49
+WA,K,42213,0,K Above-the-line Votes,Socialist Alliance,2766,195,13,157,333,3464
+WA,K,41228,1,"SOBIERALSKI, Jade",Socialist Alliance,315,17,2,14,48,396
+WA,K,41230,2,"BREEN, Riley",Socialist Alliance,60,5,0,3,12,80
+WA,K,0,9998,Unapportioned,Socialist Alliance,36,0,0,0,0,36
+WA,L,42216,0,L Above-the-line Votes,Australian Labor Party,451734,20931,698,20514,67935,561812
+WA,L,40916,1,"WHITEAKER, Ellie",Australian Labor Party,7804,482,19,429,1645,10379
+WA,L,40917,2,"GHOSH, Varun",Australian Labor Party,605,35,5,36,110,791
+WA,L,40921,3,"SINGH, Deep",Australian Labor Party,787,57,2,23,83,952
+WA,L,40924,4,"DEWAN, Tarun",Australian Labor Party,298,30,1,12,48,389
+WA,L,40928,5,"WHITE, Ally",Australian Labor Party,874,69,2,41,197,1183
+WA,L,40932,6,"OSWALD, Brock",Australian Labor Party,481,35,0,30,105,651
+WA,L,0,9998,Unapportioned,Australian Labor Party,10402,0,0,0,0,10402
+WA,M,42220,0,M Above-the-line Votes,One Nation,69162,4696,127,4173,10859,89017
+WA,M,42022,1,"WHITTEN, Tyron",Pauline Hanson's One Nation,2711,198,6,159,480,3554
+WA,M,42031,2,"DOYLE, Conor",Pauline Hanson's One Nation,237,22,2,18,64,343
+WA,M,0,9998,Unapportioned,One Nation,2242,0,0,0,0,2242
+WA,N,42217,0,N Above-the-line Votes,Legalise Cannabis Party,48662,5106,119,2549,5169,61605
+WA,N,40919,1,"MEOTTI, Jason",Legalise Cannabis Party,1662,180,8,100,220,2170
+WA,N,40922,2,"D'ATH, Melissa Rose",Legalise Cannabis Party,239,29,3,15,58,344
+WA,N,0,9998,Unapportioned,Legalise Cannabis Party,1172,0,0,0,0,1172
+WA,O,42218,0,O Above-the-line Votes,Animal Justice Party,12510,1016,37,651,2636,16850
+WA,O,42025,1,"ANAGNO, Michael",Animal Justice Party,538,41,1,34,133,747
+WA,O,42032,2,"STEWART, Grant",Animal Justice Party,68,8,0,2,23,101
+WA,O,0,9998,Unapportioned,Animal Justice Party,307,0,0,0,0,307
+WA,P,42224,0,P Above-the-line Votes,Australia's Voice,8329,654,32,322,824,10161
+WA,P,41983,1,"KRAKOUER, Megan",Australia's Voice,590,66,0,27,73,756
+WA,P,41985,2,"LA MACCHIA, Tano",Australia's Voice,35,1,0,2,13,51
+WA,P,0,9998,Unapportioned,Australia's Voice,167,0,0,0,0,167
+WA,Q,42219,0,Q Above-the-line Votes,Liberal,325344,14709,455,16452,55385,412345
+WA,Q,40914,1,"BROCKMAN, Slade",Liberal,4116,243,7,262,1005,5633
+WA,Q,40918,2,"O'SULLIVAN, Matt",Liberal,693,56,3,58,205,1015
+WA,Q,40923,3,"BOTHA, Trish",Liberal,312,20,0,18,88,438
+WA,Q,40929,4,"MATHEWS, Jennifer",Liberal,561,43,0,31,138,773
+WA,Q,0,9998,Unapportioned,Liberal,11126,0,0,0,0,11126
+WA,R,42222,0,R Above-the-line Votes,The Nationals,41380,2164,43,2379,7869,53835
+WA,R,41943,1,"BROWN, Paul",The Nationals,1627,79,2,113,424,2245
+WA,R,41947,2,"MILES, Jeremy",The Nationals,193,23,0,12,43,271
+WA,R,0,9998,Unapportioned,The Nationals,1660,0,0,0,0,1660
+WA,UG,42090,1,"CAO, Ky",Independent,786,53,4,44,158,1045
+WA,UG,41992,2,"MUBARAK, Kim",Independent,337,24,1,16,69,447
