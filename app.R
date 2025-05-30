@@ -181,6 +181,12 @@ ui <- dashboardPage(
             width = 6
           )
         ),
+        h3(
+          "Data source: ",
+          a("AEC Official Results",
+            href = "https://tallyroom.aec.gov.au/HouseDefault-31496.htm"
+          )
+        ),
         p("Data last updated: May 27, 2025. Note: Results are preliminary and subject to change.")
       ),
       tabItem(
